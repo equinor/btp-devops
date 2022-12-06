@@ -7,3 +7,6 @@ url: https://equinor.github.io/btp-devops
 
 # aux_links: # remove if you don't want this link to appear on your pages
 #   Template Repository: https://github.com/YOUR-USERNAME/YOUR-SITE-NAME
+
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
