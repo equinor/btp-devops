@@ -2,7 +2,6 @@ title: BTP DevOPs
 description: Technial documentation and guidelines
 #theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
-baseurl: "/docs"
 url: https://equinor.github.io/btp-devops
 
 # aux_links: # remove if you don't want this link to appear on your pages
