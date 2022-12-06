@@ -1,6 +1,7 @@
 title: BTP DevOPs
 description: Technial documentation and guidelines
-theme: just-the-docs
+#theme: just-the-docs
+remote_theme: benbalter/retlab
 baseurl: "/docs"
 url: https://equinor.github.io/btp-devops
 
